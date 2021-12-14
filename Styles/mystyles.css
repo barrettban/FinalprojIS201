@@ -1,0 +1,47 @@
+.text-primary {
+    color: rgb(2, 196, 250) !important;
+    
+
+}
+
+.text-faded {
+    color: rgb(106, 225, 88);
+    font-weight: bold;
+    
+
+
+}
+
+.titles {
+    font-style: italic;
+    font-size: x-large;
+
+}
+
+body {
+    background-image:url("../Images/images/2018953.jpg") !important
+
+}
+
+#mainNav {
+    background-color: rgb(149, 196, 56);
+    opacity: 90%;
+
+}
+
+.rounded {
+background-color: blue;
+
+}
+
+.btn-primary {
+
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+}
+
+
+.cta {
+
+    background-color: blue;
+}

@@ -1,0 +1,64 @@
+body {
+    background-image:url("../Images/images/2018953.jpg")
+}
+
+
+
+.tableauPlaceholder {
+width: 500px;
+height: 250px;
+
+
+}
+
+
+
+.footerbox {
+    display: flex;
+    background-color: blue;
+    outline-color: blue;
+    bottom: 0px;
+    left: 0px;
+    top: 500px;
+    width: 100%;
+    font-family: sans-serif;
+
+} 
+
+.special_text {
+    font-variant: initial;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    display: inline;
+    font-family: sans-serif;
+}
+
+
+
+.NAVbox {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    background-color: green;
+    flex-direction: row;
+    margin-bottom: 250px;
+    z-index: 999;
+}
+
+.NAVbox li{
+    text-align: center;
+    padding: 5px 5px;
+    height: 50px;
+    flex-grow: 3;
+    list-style: none;
+}
+
+.descriptbox {
+    background-color: blue;
+    outline-color: blue;
+    width: 100%;
+    font-family: sans-serif;
+    
+}
